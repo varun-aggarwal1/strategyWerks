@@ -82,7 +82,7 @@ function App() {
             }}
           >
             {list[i].firstName}
-            {/* {list[i].id} */}
+            {list[i].id}
           </div>
         );
       }
