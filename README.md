@@ -1,5 +1,5 @@
 Overview
-This Assignment demonstrates efficient data rendering using virtualization in React, with Redux for state management. Virtualization helps to render only the visible portion of large data sets to enhance performance and minimize memory usage.as no apiis provided using the dummy api with paginantion
+This Assignment demonstrates efficient data rendering using virtualization in React, with Redux for state management. Virtualization helps to render only the visible portion of large data sets to enhance performance and minimize memory usage.as no apiis provided using the dummy api with paginantion. this app consists of very basic css and to have beteer undersatnding that pagination and virtual scrollins is working index is also displayed on the screen for better visualization
 
 Features:-
 React Virtualization: Renders only visible list items, improving performance for large datasets.
